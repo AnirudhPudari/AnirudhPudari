@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnirudhPudari, currently working as a Senior Software Developer in Bangalore, India
-- 🌱 I’m currently learning kotin multiplatform, kotlin, Android 
+- 🌱 I’m into Android application development and also keen on learning kotin multiplatform (KMM), Ktor also multiple other things.
 - 💞️ I’m looking to contribute on open source projects in Android and also share my learnings for whosover it may be needed.
 - 📫 How to reach me anirudhgoud013@gmail.com
 

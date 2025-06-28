@@ -1,20 +1,29 @@
-- 👋 Hi, I’m @AnirudhPudari, currently working as a Senior Software Developer in Bangalore, India
-- 🌱 I’m into Android application development and also keen on learning kotin multiplatform (KMM), Ktor also multiple other things.
-- 💞️ I’m looking to contribute on open source projects in Android and also share my learnings for whosover it may be needed.
-- 📫 How to reach me anirudhgoud013@gmail.com
+Welcome to my GitHub! I'm a Senior Software Developer based in Bangalore, India, specializing in Android application development.
 
+🌱 About Me
+Passionate about building robust and user-friendly Android applications.
 
+Currently exploring Kotlin Multiplatform Mobile (KMM) and Ktor, along with other emerging technologies.
 
+Strong advocate for open-source contributions and sharing knowledge with the developer community.
 
-📝 My Latest Blog Post in Medium
+💻 What I Do
+Android Development: Expertise in Jetpack Compose, Kotlin, and modern app architectures (MVVM, Clean Architecture).
 
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@auroraanirudh/0">
+BLE Applications: Skilled in developing Bluetooth Low Energy (BLE) solutions.
 
+Cross-Platform Development: Learning to leverage KMM for shared codebases.
 
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@auroraanirudh/1">
+💞️ Let's Collaborate
+I’m always looking to contribute to open-source Android projects and collaborate with like-minded developers. If you have an exciting project or idea, feel free to reach out!
 
+📫 Get in Touch
+Email: anirudhgoud013@gmail.com
 
-<!---
-AnirudhPudari/AnirudhPudari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: Anirudh Pudari
+
+Medium: My Latest Blog Posts
+
+📝 Blog Highlights
+Check out my latest posts on Medium, where I share insights and tutorials about Android development and emerging tech trends!
+
